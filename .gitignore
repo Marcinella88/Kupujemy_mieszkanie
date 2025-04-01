@@ -1,0 +1,17 @@
+# Środowisko wirtualne
+env/
+.venv/
+
+# Pliki tymczasowe Pythona
+__pycache__/
+*.pyc
+
+# Pliki bazy danych
+*.db
+
+# Konfiguracje edytorów
+.vscode/
+.idea/
+
+# Notebooki cache
+.ipynb_checkpoints/
